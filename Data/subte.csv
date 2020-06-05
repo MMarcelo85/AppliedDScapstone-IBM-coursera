@@ -1,0 +1,88 @@
+long,lat,linea,estacion,numero_de_,destino_bo,calle,altura,barrio,dom_orig
+-58.3972499423143,-34.587803877245605,H,LAS HERAS,1,a Hospitales,Pueyrredon,2199,Recoleta,Pueyrredon 2199
+-58.4039666149165,-34.598732643142704,H,CÓRDOBA,1,a Las Heras y Hopitales,Pueyrredon,984,Balvanera,Pueyrredon 984
+-58.40508654771379,-34.6035504029818,H,CORRIENTES,1,Salida únicamente,Pueyrredón,589,Balvanera,Pueyrredón 589
+-58.3973860117587,-34.6230746589813,E,PICHINCHA,1,a Retiro y Plaza de los Virreyes,San Juan,2277,San Cristóbal,San Juan 2277
+-58.3917454880174,-34.6226516085745,E,ENTRE RIOS - RODOLFO WALSH,1,a Retiro y Plaza de los Virreyes,San Juan,1809,San Cristóbal,San Juan 1809
+-58.4055197713612,-34.604368250018204,B,PUEYRREDON,1,a L. N. Alem y J. M. de Rosas,Pueyrredón,510,Balvanera,Pueyrredón 510
+-58.398669194283706,-34.609570070278004,A,PASCO,1,a Plaza de Mayo,Rivadavia,2283,Balvanera,Rivadavia 2283
+-58.392680374036,-34.609137739844606,A,CONGRESO - PDTE. DR. RAÚL ALFONSÍN,1,a Plaza de Mayo,Rivadavia,1837,Balvanera,Rivadavia 1837
+-58.371816135307796,-34.6087869119957,A,PLAZA DE MAYO,1,a San Pedrito,Hipólito Yrigoyen,399,Monserrat,Hipólito Yrigoyen 399
+-58.3787193169857,-34.60876533883489,A,PIEDRAS,1,a Plaza de Mayo,Avenida de Mayo,869,Monserrat,Avenida de Mayo 869
+-58.382748872121496,-34.6090407229121,A,LIMA,1,a Plaza de Mayo,Avenida de Mayo,1157,Monserrat,Avenida de Mayo 1157
+-58.3870377273487,-34.6093283204226,A,SAENZ PEÑA,1,a Plaza de Mayo,Avenida de Mayo,1487,Monserrat,Avenida de Mayo 1487
+-58.4066197226993,-34.6102746554203,A,PLAZA MISERERE,1,a Plaza de Mayo y San Pedrito,Rivadavia,2836,Balvanera,Rivadavia 2836
+-58.4153385245978,-34.6106986429253,A,LORIA,1,a Plaza de Mayo,Rivadavia,3463,Almagro,Rivadavia 3463
+-58.421892149327604,-34.611745651148894,A,CASTRO BARROS,1,a Plaza de Mayo,Rivadavia,3959,Almagro,Rivadavia 3959
+-58.4295579822952,-34.6151357374411,A,RIO DE JANEIRO,1,a Plaza de Mayo,Rivadavia,4541,Almagro,Rivadavia 4541
+-58.4362519178479,-34.6180971411152,A,ACOYTE,1,a Plaza de Mayo,Rivadavia,4995,Caballito,Rivadavia 4995
+-58.4412926924192,-34.6203346387924,A,PRIMERA JUNTA,1,a Plaza de Mayo y San Pedrito,Rivadavia,5391,Caballito,Rivadavia 5391
+-58.4488590281474,-34.6234898965915,A,PUAN,1,a Plaza de Mayo y San Pedrito,Rivadavia,5943,Caballito,Rivadavia 5943
+-58.4563343642994,-34.6264185211763,A,CARABOBO,1,a Plaza de Mayo y San Pedrito,Rivadavia,6375,Flores,Rivadavia 6375
+-58.4638644814903,-34.6289790341963,A,SAN JOSÉ DE FLORES,1,Salida unicamente,Rivadavia,6989,Flores,Rivadavia 6989
+-58.470743549846105,-34.6308168874437,A,SAN PEDRITO,1,a Plaza de Mayo,Rivadavia,7469,Flores,Rivadavia 7469
+-58.374880021445506,-34.603207053335,B,FLORIDA,1,a L. N. Alem y J. M. de Rosas,Corrientes,587,San Nicolas,Corrientes 587
+-58.380888646126394,-34.6034442794286,B,C. PELLEGRINI,1,a L. N. Alem y J. M. de Rosas,Pellegrini,423,San Nicolas,Pellegrini 423
+-58.3872990595833,-34.6039539622429,B,URUGUAY,1,Salida unicamente,Corrientes,1463,San Nicolas,Corrientes 1463
+-58.392879484858,-34.6043523143446,B,CALLAO - MAESTRO ALFREDO BRAVO,1,Salida unicamente,Corrientes,1833,Balvanera,Corrientes 1833
+-58.3997098739406,-34.6045438166355,B,PASTEUR - AMIA,1,a L. N. Alem y J. M. de Rosas,Corrientes,2311,Balvanera,Corrientes 2311
+-58.412041187419206,-34.6039988624057,B,CARLOS GARDEL,1,a L. N. Alem y J. M. de Rosas,Corrientes,3315,Balvanera,Corrientes 3315
+-58.421325062235795,-34.603040216204704,B,ALMAGRO - MEDRANO,1,a L. N. Alem,Corrientes,4019,Almagro,Corrientes 4019
+-58.4313505466811,-34.602046989581396,B,ANGEL GALLARDO,1,Andén a Leandro N. Alem,Corrientes,4667,Almagro,Corrientes 4667
+-58.4398795085657,-34.598706986932804,B,MALABIA - OSVALDO PUGLIESE,1,a L. N. Alem,Corrientes,5321,Villa Crespo,Corrientes 5321
+-58.447711323689006,-34.5914394865517,B,DORREGO,1,a L. N. Alem,Corrientes,6201,Chacarita,Corrientes 6201
+-58.455321355623205,-34.5863710172126,B,FEDERICO LACROZE,1,a L. N. Alem,Federico Lacroze,4171,Chacarita,Federico Lacroze 4171
+-58.46642253125749,-34.5839467041908,B,TRONADOR - VILLA ORTÚZAR,1,a L. N. Alem y J. M. de Rosas,Guevara,1619,Villa Ortuzar,Guevara 1619
+-58.474043305014604,-34.5813907426656,B,DE LOS INCAS - PQUE. CHAS,1,a L. N. Alem y J. M. de Rosas,Triunvirato,3741,Villa Ortuzar,Triunvirato 3741
+-58.4809520220887,-34.5776965218431,B,ECHEVERRÍA,1,a L. N. Alem y J. M. de Rosas,Triunvirato,4265,Villa Urquiza,Triunvirato 4265
+-58.48782603187039,-34.574127958492696,B,JUAN MANUEL DE ROSAS - VILLA URQUIZA,1,a L. N. Alem,Roosevelt,5160,Villa Urquiza,Roosevelt 5160
+-58.3738287200189,-34.5913865794963,C,RETIRO,1,a Constitución,Ramos Mejía,1390,Retiro,Ramos Mejía 1390
+-58.3775385648518,-34.5955320216005,C,SAN MARTIN,1,a Retiro y Constitución,Santa Fe,715,Retiro,Santa Fe 715
+-58.3774905974029,-34.5954841415085,C,SAN MARTIN,1,Salida únicamente,Santa Fe,721,Retiro,Santa Fe 721
+-58.3780847710273,-34.6016909782718,C,LAVALLE,1,a Retiro y Constitución,Esmeralda,573,San Nicolas,Esmeralda 573
+-58.3796965993585,-34.6046049275557,C,DIAGONAL NORTE,1,Salida únicamente,Roque Sáenz Peña,917,San Nicolas,Roque Sáenz Peña 917
+-58.3805972482267,-34.6087394508317,C,AV. DE MAYO,1,Salida únicamente,Bernardo de Irigoyen,18,Monserrat,Bernardo de Irigoyen 18 I
+-58.3805809640886,-34.6123529715806,C,MORENO,1,a Retiro y Constitución,Bernardo de Irigoyen,336,Monserrat,Bernardo de Irigoyen 336
+-58.38005921726089,-34.617857935989896,C,INDEPENDENCIA,1,a Retiro y Constitución,Bernardo de Irigoyen,816,Constitucion,Bernardo de Irigoyen 816
+-58.379926195424005,-34.621814531616,C,SAN JUAN,1,a Retiro y Constitución,Bernardo de Irigoyen,1172,Constitucion,Bernardo de Irigoyen 1172
+-58.381044541012706,-34.6279009335369,C,CONSTITUCION,1,a Retiro,Brasil,1149,Constitucion,Brasil 1149
+-58.3749126398831,-34.6075096307944,D,CATEDRAL,1,a Congreso de Tucumán,Roque Sáenz Peña,590,San Nicolas,Roque Sáenz Peña 590
+-58.3804653321873,-34.6041985798514,D,9 DE JULIO,1,Salida únicamente,Roque Sáenz Peña,979,San Nicolas,Roque Sáenz Peña 979
+-58.385119562350205,-34.6012012898235,D,TRIBUNALES - TEATRO COLÓN,1,a Catedral y Congreso de Tucumán,Talcahuano,650,San Nicolas,Talcahuano 650
+-58.393183907718296,-34.5995514105554,D,CALLAO,1,Salida únicamente,Córdoba,1807,Recoleta,Córdoba 1807
+-58.3978367172056,-34.599631935904696,D,FACULTAD DE MEDICINA,1,Salida únicamente,Córdoba,2160,Balvanera,Córdoba 2160
+-58.4025996493511,-34.594271800573104,D,PUEYRREDON,1,a Catedral y Congreso de Tucumán,Santa Fe,2517,Recoleta,Santa Fe 2517
+-58.4072064964015,-34.5914367326655,D,AGÜERO,1,a Catedral y Congreso de Tucumán,Santa Fe,2915,Recoleta,Santa Fe 2915
+-58.4113153197248,-34.5880933931455,D,BULNES,1,a Catedral,Santa Fe,3295,Palermo,Santa Fe 3295
+-58.4159890964988,-34.5849933355491,D,R.SCALABRINI ORTIZ,1,a Catedral,Santa Fe,3711,Palermo,Santa Fe 3711
+-58.4214856326109,-34.5811281796147,D,PLAZA ITALIA,1,a Catedral y Congreso de Tucumán,Santa Fe,4195,Palermo,Santa Fe 4195
+-58.4258330284275,-34.578207655852104,D,PALERMO,1,a Catedral y Congreso de Tucumán,Santa Fe,4719,Palermo,Santa Fe 4719
+-58.44448550163,-34.5699784014409,D,OLLEROS,1,a Catedral y Congreso de Tucumán,Cabildo,759,Palermo,Cabildo 759
+-58.4522957737519,-34.565953316621396,D,JOSE HERNANDEZ,1,Salida únicamente,Cabildo,1621,Belgrano,Cabildo 1621
+-58.45634761804,-34.5621971792245,D,JURAMENTO,1,Salida únicamente,Cabildo,2077,Belgrano,Cabildo 2077
+-58.4620603352118,-34.5556976113423,D,CONGRESO DE TUCUMAN,1,a Catedral,Cabildo,2869,Belgrano,Cabildo 2869
+-58.373422273533,-34.6091738071059,E,BOLIVAR,1,a Plaza de los Virreyes,Hipólito Yrigoyen,500,Monserrat,Hipólito Yrigoyen 500
+-58.37815754819611,-34.612790212171895,E,BELGRANO,1,a Retiro y Plaza de los Virreyes,Belgrano,835,Monserrat,Belgrano 835
+-58.385350304459294,-34.622264228627,E,SAN JOSE,1,a Retiro y Plaza de los Virreyes,San Juan,1369,Constitucion,San Juan 1369
+-58.4030860436761,-34.623791894285695,E,JUJUY,1,a Retiro y Plaza de los Virreyes,San Juan,2743,San Cristobal,San Juan 2743
+-58.4098655565043,-34.6246179229059,E,URQUIZA,1,a Retiro y Plaza de los Virreyes,San Juan,3161,San Cristobal,San Juan 3161
+-58.4162345821305,-34.6251784064491,E,BOEDO,1,a Retiro y Plaza de los Virreyes,Boedo,981,Boedo,Boedo 981
+-58.427013301814604,-34.6269415966411,E,AV. LA PLATA,1,a Retiro y Plaza de los Virreyes,Directorio,11,Caballito,Directorio 11
+-58.4339721567684,-34.6278378789258,E,JOSE MARIA MORENO,1,a Retiro y Plaza de los Virreyes,José María Moreno,793,Caballito,José María Moreno 793
+-58.4420728587085,-34.6314542683564,E,EMILIO MITRE,1,a Retiro y Plaza de los Virreyes,Emilio Mitre,855,Parque Chacabuco,Emilio Mitre 855
+-58.4501239524895,-34.6364380641018,E,MEDALLA MILAGROSA,1,a Retiro y Plaza de los Virreyes,Eva Perón,1953,Parque Chacabuco,Eva Perón 1953
+-58.4578925044446,-34.6398459655059,E,VARELA,1,a Retiro y Plaza de los Virreyes,Varela,940,Flores,Varela 940
+-58.4614828150678,-34.643042644561,E,PLAZA DE LOS VIRREYES - EVA PERÓN,1,a Retiro,Lafuente,1150,Flores,Lafuente 1150
+-58.40589541692079,-34.608946582795504,H,ONCE - 30 DE DICIEMBRE,1,a Las Heras y Hospitales,Pueyrredón,91,Balvanera,Pueyrredón 91
+-58.404694449722,-34.6149425821075,H,VENEZUELA,1,Salida únicamente,Jujuy,422,Balvanera,Jujuy 422
+-58.4021879223851,-34.6224734665026,H,HUMBERTO 1°,1,a Las Heras y Hospitales,Humberto 1°,2666,San Cristobal,Humberto 1° 2666
+-58.400918348093604,-34.628996103496696,H,INCLAN - MEZQUITA AL AHMAD,1,Salida únicamente,Jujuy,1618,Parque Patricios,Jujuy 1618
+-58.399061119249204,-34.6350212938628,H,CASEROS,1,Salida únicamente,Jujuy,2112,Parque Patricios,Jujuy 2112
+-58.405934773800496,-34.6375138750739,H,PARQUE PATRICIOS,1,a Las Heras y Hospitales,Monteagudo,29,Parque Patricios,Monteagudo 29
+-58.4124295130233,-34.6415503145927,H,HOSPITALES,1,a Las Heras,Almafuerte,270,Parque Patricios,Almafuerte 270
+-58.4344646903156,-34.575264492765605,D,MINISTRO CARRANZA - MIGUEL ABUELO,1,a Catedral y Congreso de Tucumán,Santa Fe,5328,Palermo,Santa Fe 5328
+-58.3748260653899,-34.6084840666294,A,PERU,1,a Pza. de Mayo,Avenida de Mayo,599,Monserrat,Avenida de Mayo 599
+-58.3706379704299,-34.6029272357369,B,LEANDRO N. ALEM,1,a J. M. de Rosas,Corrientes,269,San Nicolas,Corrientes 269
+-58.375240201710604,-34.5923638227662,E,RETIRO,1,a Plaza de los Virreyes - Eva Perón,Ramos mejia,1301,Retiro,Ramos Mejía 1301
+-58.371726983261794,-34.5965449810427,E,CATALINAS,1,a Plaza de los Virreyes - Eva Perón y Retiro,Leandro Alem,951,Retiro,Leandro N Alem 951
+-58.391020964631004,-34.5830355912055,H,FACULTAD DE DERECHO - JULIETA LANTERI,1,a Hospitales,"Figueroa Alcorta, Pres. Av.",0,Recoleta,"Figueroa Alcorta, Pres. Av. y Gonzalez, Julio Victor"
